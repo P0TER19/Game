@@ -1,0 +1,23 @@
+﻿  main.cpp
+  Player.cpp
+  Texture.cpp
+  TextureManager.cpp
+  Zombie.cpp
+  ZombieManager.cpp
+  Génération de code en cours...
+C:\Users\hy\Downloads\Dodger-SFML-main\Dodger-SFML-main\Dodger\Dodger\main.cpp(1,10): error C1083: Impossible d'ouvrir le fichier include : 'Graphics.hpp' : No such file or directory
+C:\Users\hy\Downloads\Dodger-SFML-main\Dodger-SFML-main\Dodger\Dodger\Player.h(3,10): error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  (compiler le fichier source 'Player.cpp')
+  
+C:\Users\hy\Downloads\Dodger-SFML-main\Dodger-SFML-main\Dodger\Dodger\Texture.h(3,10): error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  (compiler le fichier source 'Texture.cpp')
+  
+C:\Users\hy\Downloads\Dodger-SFML-main\Dodger-SFML-main\Dodger\Dodger\TextureManager.h(3,10): error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  (compiler le fichier source 'TextureManager.cpp')
+  
+C:\Users\hy\Downloads\Dodger-SFML-main\Dodger-SFML-main\Dodger\Dodger\Zombie.h(3,10): error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  (compiler le fichier source 'Zombie.cpp')
+  
+C:\Users\hy\Downloads\Dodger-SFML-main\Dodger-SFML-main\Dodger\Dodger\ZombieManager.h(3,10): error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  (compiler le fichier source 'ZombieManager.cpp')
+  

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hy\\Downloads\\Dodger-SFML-main\\Dodger-SFML-main\\Dodger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D135BEB-BA02-41CD-AE4C-20392978CDE1}|Dodger\\Dodger.vcxproj|C:\\Users\\hy\\Downloads\\Dodger-SFML-main\\Dodger-SFML-main\\Dodger\\Dodger\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D135BEB-BA02-41CD-AE4C-20392978CDE1}|Dodger\\Dodger.vcxproj|solutionrelative:Dodger\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hy\\Downloads\\Dodger-SFML-main\\Dodger-SFML-main\\Dodger\\Dodger\\main.cpp",
+              "RelativeDocumentMoniker": "Dodger\\main.cpp",
+              "ToolTip": "C:\\Users\\hy\\Downloads\\Dodger-SFML-main\\Dodger-SFML-main\\Dodger\\Dodger\\main.cpp",
+              "RelativeToolTip": "Dodger\\main.cpp",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T00:50:25.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
